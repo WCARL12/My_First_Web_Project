@@ -44,5 +44,5 @@ For this web page I have used HTML, CSS and Javascript making this website
 This website and its content are open source and available under the [MIT License](LICENSE). You are welcome to use this template for your own personal website and modify it as needed.
 
 ## Sketch 
+![20231028_141036](https://github.com/WCARL12/My_First_Web_Project/assets/139624156/364bceb9-b51b-4c60-a426-b5a1ee0f4be6)
 
-![20231028_140634](https://github.com/WCARL12/My_First_Web_Project/assets/139624156/681c7f41-c381-4882-a4c7-9bcb23d359eb)
