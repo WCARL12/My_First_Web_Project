@@ -10,7 +10,7 @@ HTML, CSS, and Javascript. Feel free to view and comment or give feedbacks on an
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-- [Technology Used] (#Technology_Used)
+- [Technology Used] (#Technology Used)
 
 ## About Me
 
@@ -42,7 +42,7 @@ Feel free to reach out to me for any inquiries, collaborations, or just to say h
 For this web page I have used HTML, CSS and Javascript making this website
 
 This website and its content are open source and available under the [MIT License](LICENSE). You are welcome to use this template for your own personal website and modify it as needed.
-![20231028_140634](https://github.com/WCARL12/My_First_Web_Project/assets/139624156/3a314abe-7183-4ed5-a096-5f216a00dc0e)
 
+## Sketch 
 
-
+![20231028_140634](https://github.com/WCARL12/My_First_Web_Project/assets/139624156/681c7f41-c381-4882-a4c7-9bcb23d359eb)
