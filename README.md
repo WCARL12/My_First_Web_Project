@@ -10,7 +10,7 @@ HTML, CSS, and Javascript. Feel free to view and comment or give feedbacks on an
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-- Technology used
+- [Technology Used] (#Technology_Used)
 
 ## About Me
 
